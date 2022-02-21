@@ -1,6 +1,6 @@
-// Script by Aju
+// Script by radioactv
 // AJU 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
-// ©Ajuser Bot 
+// ©radioactv Bot 
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -133,8 +133,8 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "917994873071"; 
-owner = "917994873071"; 
+targetpc = ""; 
+owner = ""; 
 fakeyoi = "AJU"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
